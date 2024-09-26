@@ -1,6 +1,6 @@
 <H3>Name:Prasanna M</H3>
 <H3>Register no.:212223040151</H3>
-<H3>Date:12/09/24</H3>
+<H3>Date:26/09/24</H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
